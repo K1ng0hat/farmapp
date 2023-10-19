@@ -21,5 +21,10 @@ namespace farmapp.farmappForms
         {
 
         }
+
+        private void lblUser_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
